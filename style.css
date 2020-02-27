@@ -1,5 +1,5 @@
 body {
-  color: f2e1f2;
+  background-color: #f2e1f2;
 }
 
 article {
@@ -39,4 +39,13 @@ li {
 
 #caption {
   text-align: center;
+}
+
+.text {
+  color: #07104d;
+}
+
+#credits {
+  text-align: center;
+  font-size: 50%;
 }
