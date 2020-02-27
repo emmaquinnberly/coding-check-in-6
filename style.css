@@ -45,6 +45,7 @@ li {
 
 #caption {
   text-align: center;
+  line-height: 50%;
 }
 
 .text {
@@ -54,4 +55,9 @@ li {
 #credits {
   text-align: center;
   font-size: 50%;
+}
+
+#recipes {
+  text-align: center;
+  font-size: 200%;
 }
